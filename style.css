@@ -1,0 +1,47 @@
+
+h1, h2, h3, h4, h5, h6, p {
+    font-weight: 200;
+}
+
+
+.article-text {
+    font-weight: 400;
+    /* color: rgb(204 204 255); */
+    color: #331900;
+    font-family: cursive;
+}
+
+h3.heading-text {
+    font-weight: 900; 
+    font-family: system-ui;
+    color: #193300 !important;
+}
+
+.hero-section {
+    height: 500px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.stock-link {
+    font-weight: 120;
+    font-size: 13px;
+}
+
+.adobe-stock {
+    position: sticky;
+    top: 0;
+}
+
+.stock-link-small {
+    font-weight: 120;
+    font-size: 10px;
+    margin-left: 8px;
+    
+}
+
+.stock-img {
+    margin: 20px 0px 10px;
+   
+}
